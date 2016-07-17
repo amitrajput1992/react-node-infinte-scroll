@@ -1,0 +1,22 @@
+{
+  "name": "Infinite-scroll",
+  "version": "1.2.2",
+  "description": "A very simple implementation of infinite scroll using react",
+  "main": "server.js",
+  "keywords": [
+    "react",
+    "reactjs",
+    "server",
+    "server-side"
+  ],
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "literalify": "^0.4.0",
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0",
+    "httpdispatcher": "^1.0.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.1"
+  }
+}
